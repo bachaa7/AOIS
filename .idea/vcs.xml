@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AOIS_1lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AOIS_2lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AOIS_3lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AOIS_4lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AOIS_5lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AOIS_6lab" vcs="Git" />
+  </component>
+</project>
